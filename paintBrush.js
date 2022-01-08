@@ -88,5 +88,4 @@ function paintBrush(){
                 this.selectionToolForOptions.option(shapes[i]);
             }
     }
-    
 }
